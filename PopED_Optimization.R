@@ -1,6 +1,6 @@
 #################### paper R code #################### 
 set.seed(1013)
-install.packages(PopED)
+install.packages("PopED")
 library(PopED)
 
 
